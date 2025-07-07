@@ -1,1 +1,1 @@
-# shopping_api
+# Placeholder for README.md
